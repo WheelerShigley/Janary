@@ -5,7 +5,7 @@ public class Bases {
     public static void main(String[] args) {
         
         //create convetions here
-        Conventions();
+        System.out.println( Janary.name(22) );
         
     }
     
